@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">OneSingapore</string>
+    <string name="song_title">Name</string>
+    <string name="enter_song_title_here">Enter Name of the attraction</string>
+    <string name="singers">Description</string>
+    <string name="enter_singers_name_here">Enter Description of the attraction</string>
+    <string name="year">Website</string>
+    <string name="enter_year_of_release_here">Enter Website of the attraction</string>
+    <string name="stars">Stars</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="insert">insert</string>
+    <string name="show_list">show list</string>
+    <string name="song_id">ID</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="cancel">cancel</string>
+    <string name="show_all_songs_with_5_stars">show all attractions with 5 stars</string>
+    <string name="show_all_songs">show all attractions</string>
+    <string name="return_to_main_page">Return to Main Page</string>
+    <string name="local_tourist">Local/Tourist</string>
+    <string name="local">Local</string>
+    <string name="tourist">Tourist</string>
+    <string name="hotel">Hotel</string>
+    <string name="enter_name_of_hotel">Enter Name of hotel</string>
+</resources>
